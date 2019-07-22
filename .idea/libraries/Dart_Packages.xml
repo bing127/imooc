@@ -1,0 +1,276 @@
+<component name="libraryTable">
+  <library name="Dart Packages" type="DartPackagesLibraryType">
+    <properties>
+      <option name="packageNameToDirsMap">
+        <entry key="async">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/async-2.2.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="boolean_selector">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/boolean_selector-1.0.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="charcode">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/charcode-1.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="collection">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/collection-1.14.11/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="cupertino_icons">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/cupertino_icons-0.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="date_utils">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/date_utils-0.1.0+2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fluro">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/fluro-1.5.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter">
+          <value>
+            <list>
+              <option value="E:/flutter/packages/flutter/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_localizations">
+          <value>
+            <list>
+              <option value="E:/flutter/packages/flutter_localizations/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_page_indicator">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_page_indicator-0.0.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_screenutil">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_screenutil-0.5.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_swiper">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_swiper-1.1.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_test">
+          <value>
+            <list>
+              <option value="E:/flutter/packages/flutter_test/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="intl">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/intl-0.15.8/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="keyboard_actions">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/keyboard_actions-2.1.1+1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="matcher">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/matcher-0.12.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="meta">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/meta-1.1.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="oktoast">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/oktoast-2.2.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="path">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/path-1.6.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pedantic">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/pedantic-1.7.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="quiver">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/quiver-2.0.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sky_engine">
+          <value>
+            <list>
+              <option value="E:/flutter/bin/cache/pkg/sky_engine/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_span">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/source_span-1.5.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stack_trace">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/stack_trace-1.9.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stream_channel">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/stream_channel-2.0.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="string_scanner">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/string_scanner-1.0.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="term_glyph">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/term_glyph-1.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="test_api">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/test_api-0.2.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="transformer_page_view">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/transformer_page_view-0.1.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="typed_data">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/typed_data-1.1.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="url_launcher">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/url_launcher-5.0.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="vector_math">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/vector_math-2.0.8/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="webview_flutter">
+          <value>
+            <list>
+              <option value="E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/webview_flutter-0.3.10/lib" />
+            </list>
+          </value>
+        </entry>
+      </option>
+    </properties>
+    <CLASSES>
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/async-2.2.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/boolean_selector-1.0.4/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/charcode-1.1.2/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/collection-1.14.11/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/cupertino_icons-0.1.2/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/date_utils-0.1.0+2/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/fluro-1.5.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_page_indicator-0.0.3/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_screenutil-0.5.3/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/flutter_swiper-1.1.6/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/intl-0.15.8/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/keyboard_actions-2.1.1+1/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/matcher-0.12.5/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/meta-1.1.6/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/oktoast-2.2.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/path-1.6.2/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/pedantic-1.7.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/quiver-2.0.3/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/source_span-1.5.5/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/stack_trace-1.9.3/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/stream_channel-2.0.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/string_scanner-1.0.4/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/term_glyph-1.1.0/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/test_api-0.2.5/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/transformer_page_view-0.1.6/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/typed_data-1.1.6/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/url_launcher-5.0.5/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/vector_math-2.0.8/lib" />
+      <root url="file://E:/flutter/.pub-cache/hosted/dart-pub.mirrors.sjtug.sjtu.edu.cn/webview_flutter-0.3.10/lib" />
+      <root url="file://E:/flutter/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://E:/flutter/packages/flutter/lib" />
+      <root url="file://E:/flutter/packages/flutter_localizations/lib" />
+      <root url="file://E:/flutter/packages/flutter_test/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
